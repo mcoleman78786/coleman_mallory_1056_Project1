@@ -3,3 +3,6 @@ created new folder structure, added javascript and reset.css.
 
 
 Started creating wireframes.
+
+
+Finished creating wireframes

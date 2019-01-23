@@ -10,3 +10,7 @@ Added images folder and includes.
 Added logo inside of images folder and reset.css inside of includes.
 
 Commit folders to master branch. finish project.
+
+Added pdf course assigment outline.
+
+finished project.
